@@ -1,4 +1,4 @@
-FERO Quantum Intelligence Neural Network
+FERO Quantum Intelligence Neural Network - Currently in progress 
 
 "Quantum Management: An Analogy between Management and Physics" with Collegio Carlo Alberto and Reale Mutua.
 
